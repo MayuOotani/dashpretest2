@@ -1,0 +1,70 @@
+.link{
+    margin: auto;
+    position: absolute;
+    bottom: 0;
+}
+
+.achieve {
+    font-size: 1em;
+    line-height: 10px;
+}
+
+.qiu {
+    font-size: 0.5em;
+    line-height: 10px;
+}
+
+.box {
+    border: 3px solid;
+    border-color: black;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#high1 {
+    width: 250px;
+    height: 250px;
+    font-size: 50px;
+}
+
+#middle1 {
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+}
+
+#low1 {
+    width: 150px;
+    height: 150px;
+    font-size: 30px;
+}
+
+.test2 {
+    font-size: 50px;
+    line-height: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+.test5 {
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+    margin: 30px;
+}
+
+.text{
+    width: auto;
+    height: auto;
+    background-color: navajowhite;
+    text-align: left;
+    margin: 2%;
+}
