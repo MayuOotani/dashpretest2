@@ -559,8 +559,8 @@ for row in ref_list:
     #)
     graph = go.Figure(
         go.Scatter(
-            x=csv_df["x"].to_list(),
-            y=csv_df["y"].to_list(),
+            x=csv_df["x"],
+            y=csv_df["y"],
             name=csv_data[0][1],
             hovertext=row[1],
             mode="markers+lines"
